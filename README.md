@@ -1,29 +1,15 @@
-# hello-world
+# [vue-cli](https://cli.vuejs.org/zh/guide/)
 
-## Project setup
-```
-npm install
-```
+## [概述和安装](./note/install.md)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## [构建流程](./note/setup.md)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## [单文件组件](./vue.md)
 
-### Run your tests
-```
-npm run test
-```
+## 使用
+``` bash
+vue create vue-cli
 
-### Lints and fixes files
+# choose Babel Router Vuex CSS-Processors Linter
+# scss standard-lint 
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
